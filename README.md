@@ -8,7 +8,8 @@ This profile is raw, real, and constantly evolving.You're looking at the transit
 
 🧠 Exploring AI/ML, Python, and OpenCV
 
-🛠️ Practicing Data Structures in Java
+🛠️ Practicing Data Structures in Java(StriversA2Z sheet)
+
 
 
 
