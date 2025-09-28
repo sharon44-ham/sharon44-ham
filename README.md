@@ -1,34 +1,3 @@
-🚀 Welcome to My Developer Journey
-
-This profile is raw, real, and constantly evolving.You're looking at the transition zone — where early-stage passion meets future-scale projects.
-
-💡 Started with HTML & CSS
-
-⚙️ Now building with JavaScript, React, backend,databases.
-
-🧠 Exploring AI/ML, Python, and OpenCV
-
-🛠️ Practicing Data Structures in Java(StriversA2Z sheet)
-
-
-
-
-
-
-🧠 Next Up
-
-🔥 Full-stack Projects with Auth, Deployment & Real-Time Features
-
-☁️ Cloud Basics, Docker, and CI/CD workflows
-
-🤖 Machine Learning + AI fundamentals
-
-
-
-🛸 Long-Term Vision
-
-Go from a beginner dev… to a product builder… to a startup enabler.All with clean code, solid UI/UX, and solving real-world problems.
-
 
 
 📫 Let’s Connect
